@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitAPI</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="price">Price</string>
+    <string name="add_student">ENTER STUDENT DETAILS</string>
+    <string name="add">ADD</string>
+    <string name="todo">TODO</string>
+    <string name="seat_number">Seat Number</string>
+</resources>
